@@ -1,12 +1,11 @@
-# articum
-Pontão de articulação rede de pontos de cultura municipais. 
+# Articum - Pontão de articulação rede de pontos de cultura Cocalzinho municipal. 
 Bem-vindo ao Pontão Articum
 
 Quem Somos:
 O Pontão Articum é uma iniciativa cultural dedicada a promover a diversidade, a criatividade e a riqueza cultural da nossa região. Acreditamos que a cultura é uma força transformadora e uma ferramenta poderosa para construir uma comunidade mais inclusiva e vibrante.
 
 Nossa Missão:
-Nossa missão é fortalecer os Pontos de Cultura e as iniciativas culturais existentes em [Inserir a localização], além de incentivar o surgimento de novos espaços de produção e difusão cultural. Queremos ser um ponto central de articulação, formação e colaboração entre os agentes culturais, fomentando o diálogo, a troca de experiências e o desenvolvimento conjunto de projetos culturais.
+Nossa missão é fortalecer os Pontos de Cultura e as iniciativas culturais existentes em Cocalzinho de goiás, além de incentivar o surgimento de novos espaços de produção e difusão cultural. Queremos ser um ponto central de articulação, formação e colaboração entre os agentes culturais, fomentando o diálogo, a troca de experiências e o desenvolvimento conjunto de projetos culturais.
 
 O Que Fazemos:
 
@@ -21,9 +20,9 @@ Cultura Digital: Estimulamos o uso das tecnologias digitais como uma forma de am
 Preservação do Patrimônio Cultural: Valorizamos nossa história e memória cultural, apoiando a preservação do patrimônio e das tradições locais.
 
 Venha Fazer Parte!
-O Pontão Articum é um espaço aberto e colaborativo. Convidamos todos os gestores culturais, membros de Pontos de Cultura, artistas, produtores culturais, entidades culturais e comunidade local a se juntarem a nós nessa jornada de valorização da cultura e da arte em [Inserir a localização]. Juntos, podemos criar um futuro cultural brilhante e impactante!
+O Pontão Articum é um espaço aberto e colaborativo. Convidamos todos os gestores culturais, membros de Pontos de Cultura, artistas, produtores culturais, entidades culturais e comunidade local a se juntarem a nós nessa jornada de valorização da cultura e da arte em Cocalzinho de goiás. Juntos, podemos criar um futuro cultural brilhante e impactante!
 
 Contato:
-Para mais informações, entre em contato conosco através de [Inserir informações de contato, como e-mail ou telefone].
+Para mais informações, entre em contato conosco através do contato,  e-mail agetaco@gmail.com ou telefone: 62 (985246286).
 
 Junte-se ao movimento cultural do Pontão Articum e vamos construir um cenário cultural vibrante e enriquecedor para todos!
