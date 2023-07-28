@@ -1,4 +1,4 @@
-# Articum - Pontão de articulação rede de pontos de cultura Cocalzinho municipal. 
+# Articum - Pontão de articulação: Rede pontos de cultura municipal, Cocalzinho de goiás. 
 Bem-vindo ao Pontão Articum
 
 Quem Somos:
