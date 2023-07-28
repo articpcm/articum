@@ -1,4 +1,4 @@
-# Articum - Pontão cultura municipal. 
+# Articum - Pontão cultura. 
 Bem-vindo ao Pontão Articum
 
 # Quem Somos:
