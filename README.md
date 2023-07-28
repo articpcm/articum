@@ -1,4 +1,4 @@
-# Pontão cultura. 
+# Pontão de cultura. 
 Bem-vindo ao Pontão Articum
 
 # Quem Somos:
