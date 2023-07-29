@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-27T20:09:40-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">pipa</title><subtitle></subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/07/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-07-27T12:16:02-03:00</published><updated>2023-07-27T12:16:02-03:00</updated><id>http://localhost:4000/jekyll/update/2023/07/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/07/27/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Meu Primeiro post</title><link href="http://localhost:4000/2023/07/27/meu-artigo.html" rel="alternate" type="text/html" title="Meu Primeiro post" /><published>2023-07-27T00:00:00-03:00</published><updated>2023-07-27T00:00:00-03:00</updated><id>http://localhost:4000/2023/07/27/meu-artigo</id><content type="html" xml:base="http://localhost:4000/2023/07/27/meu-artigo.html"><![CDATA[<p>#Sejam Bem-vindos</p>
+
+<p>Bem-vindo ao Pontão Articum</p>
+
+<p>Quem Somos:
+O Pontão Articum é uma iniciativa cultural dedicada a promover a diversidade, a criatividade e a riqueza cultural da nossa região. Acreditamos que a cultura é uma força transformadora e uma ferramenta poderosa para construir uma comunidade mais inclusiva e vibrante.</p>
+
+<p>Nossa Missão:
+Nossa missão é fortalecer os Pontos de Cultura e as iniciativas culturais existentes em [Inserir a localização], além de incentivar o surgimento de novos espaços de produção e difusão cultural. Queremos ser um ponto central de articulação, formação e colaboração entre os agentes culturais, fomentando o diálogo, a troca de experiências e o desenvolvimento conjunto de projetos culturais.</p>
+
+<p>O Que Fazemos:</p>
+
+<p>Mobilização Cultural: Identificamos, apoiamos e fortalecemos os Pontos de Cultura já presentes em nossa região, reconhecendo seu papel vital na promoção da cultura local.</p>
+
+<p>Articulação em Rede: Criamos uma rede de colaboração entre os Pontos de Cultura, promovendo ações conjuntas, trocas culturais e parcerias enriquecedoras.</p>
+
+<p>Formação e Capacitação: Oferecemos cursos, workshops e capacitações para gestores culturais e membros dos Pontos de Cultura, fortalecendo suas habilidades de gestão e criação de projetos culturais.</p>
+
+<p>Cultura Digital: Estimulamos o uso das tecnologias digitais como uma forma de ampliar o alcance e a visibilidade das ações culturais, conectando nossa cultura com o mundo.</p>
+
+<p>Preservação do Patrimônio Cultural: Valorizamos nossa história e memória cultural, apoiando a preservação do patrimônio e das tradições locais.</p>
+
+<p>Venha Fazer Parte!
+O Pontão Articum é um espaço aberto e colaborativo. Convidamos todos os gestores culturais, membros de Pontos de Cultura, artistas, produtores culturais, entidades culturais e comunidade local a se juntarem a nós nessa jornada de valorização da cultura e da arte em [Inserir a localização]. Juntos, podemos criar um futuro cultural brilhante e impactante!</p>
+
+<p>Contato:
+Para mais informações, entre em contato conosco através de [Inserir informações de contato, como e-mail ou telefone].</p>
+
+<p>Junte-se ao movimento cultural do Pontão Articum e vamos construir um cenário cultural vibrante e enriquecedor para todos! 2023-07-27-meu-primeiro-post.md</p>]]></content><author><name></name></author><summary type="html"><![CDATA[#Sejam Bem-vindos]]></summary></entry><entry><title type="html">Sejam bem aventurados!</title><link href="http://localhost:4000/articula%C3%A7%C3%A3o/em/rede/cultura/viva/2023/07/22/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Sejam bem aventurados!" /><published>2023-07-22T16:34:31-03:00</published><updated>2023-07-22T16:34:31-03:00</updated><id>http://localhost:4000/articula%C3%A7%C3%A3o/em/rede/cultura/viva/2023/07/22/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/articula%C3%A7%C3%A3o/em/rede/cultura/viva/2023/07/22/welcome-to-jekyll.html"><![CDATA[<p>PIPA - Programa de Integração e Produção de Arte</p>
+
+<p>Finalidade: O Programa de Integração e Promoção de Arte (PIPA) é uma iniciativa i promovida pelos Pontões de Articulação em Rede, Ponto de Cultura e Pontões de Cultura Digital e Audiovisual. Seu objetivo é integrar os projetos e atividades culturais dos diferentes Pontos de Cultura existentes em uma determinada região ou estado.</p>
+
+<p>O PIPA busca promover a troca de experiências, a colaboração e a criação conjunta entre os Pontos de Cultura, visando fortalecer a diversidade cultural, impulsionar a inovação artística e ampliar o alcance e o impacto das iniciativas culturais na comunidade. Além disso, o PIPA também tem como finalidade a promoção de ações de formação, capacitação e difusão para os agentes culturais envolvidos, buscando aprimorar suas práticas e estimular a participação ativa da sociedade na construção e fruição da cultura.</p>
+
+<p>O PIPA pode realizar eventos, festivais, exposições e outras atividades artísticas e culturais que unam os esforços dos Pontos de Cultura em uma rede colaborativa e transformadora. Cocalzinho de goiás 2023 07 Julho-cultura viva.</p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="Articulação" /><category term="em" /><category term="rede" /><category term="cultura" /><category term="viva" /><summary type="html"><![CDATA[PIPA - Programa de Integração e Produção de Arte]]></summary></entry></feed>
